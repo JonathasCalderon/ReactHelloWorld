@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello, .world {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.hello {
+    color: darkorange;
+    margin-right: 10px;
+}
+
+.world {
+    color: red;
+    margin-left: 10px;
+}
